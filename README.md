@@ -22,3 +22,6 @@ Nos modelos os valores das cores são representadas por valores, que são armaze
 Modelos de cores: 
 São modos de representar as cores com modelos matemáticos. Cada um usa a junção de certos componentes para definir as cores.
 Cada uma das cores(ou componentes) recebe um valor que indica sua intensidade. Esses valores são usados para formar uma única cor e, em alguns modelos, sua iluminação e saturação.
+
+
+![abc](https://github.com/user-attachments/assets/aed65fd2-29fd-40ab-b8ce-a54d923f1e8c)
